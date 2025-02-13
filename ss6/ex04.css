@@ -1,0 +1,17 @@
+.header1{
+    background-color: #4caf50;
+    text-align: center;
+}
+li{
+    padding: 1px;
+}
+#menu{
+    border: 1px gray solid;
+    background-color: #f9f9f9;
+    padding: 10px;
+    
+    
+}
+.header2{
+    padding: 10px;
+}

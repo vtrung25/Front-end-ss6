@@ -1,0 +1,27 @@
+.header1{
+    background-color: #282c34;
+    color: white;
+}
+.header2{
+    background-color: #f0f0f0;
+    height: 300px;
+    
+}
+img{
+    padding: 50px;
+}
+button{
+    width: 325px;
+    height: 40px;
+    background-color: #282c34;
+    color: white;
+    border-radius: 5px;
+}
+.header4{
+    background-color: #f0f0f0;
+    text-align: center;
+    height: 70px;
+}
+.header3{
+    height:160px;
+}
